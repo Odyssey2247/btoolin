@@ -100,7 +100,7 @@ arg="$1"
             echo -n "Found: "
             pacman -Ss $2 | grep -A1 blackarch |cut -d '/' -f 2 | wc -l
             echo "----------------------------------"
-            pacman -Ss $2 | grep -A1 blackarch |cut -d '/' -f 2 | awk '{if (NR > 1 && NR % 2 == 1) print "3[0;32m"$1"3[0m"; print "   "; print $0}' | more
+            pacman -Ss $2 | grep -A1 blackarch |cut -d '/' -f 2 | awk '{if (NR > 1 && NR % 2 == 1) print "   "; print $0}' | more
             shift
             ;; 
       -n)   echo ""
