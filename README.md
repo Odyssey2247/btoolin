@@ -13,11 +13,11 @@
 Script to install and manage blackarch tools in any distribution based on Arch linux
 
 FEATURES
--Install the blackarch repository
--Install / uninstall blackarch tools
--List the categories of tools present in blackarch
--Search tools / categories / criteria to find matches
--Install repo in any distro based on arch linux
+- Install the blackarch repository
+- Install / uninstall blackarch tools
+- List the categories of tools present in blackarch
+- Search tools / categories / criteria to find matches
+- Install repo in any distro based on arch linux
 
 INSTALLATION:
     chmod + x btoolin
