@@ -20,10 +20,12 @@ FEATURES
 - Install repo in any distro based on arch linux
 
 INSTALLATION:
+
     chmod + x btoolin
     cp btoolin ~ /.local/bin   //make sure yo have ~/.local/bin in your PATH
 
 RUN
+
     btoolin -h
 
 ![](btoolin.png)
