@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# 2019 Jose Luis Blas Ralde a.k.a Odyssey2247
+# 2019 Jose Luis Blas Ralde a.k.a joselbr2099
 #email: regex1024@gmail.com
 #script to launch and manage tide
 echo ""
@@ -11,8 +11,8 @@ echo "██████╔╝   ██║   ╚██████╔╝╚█�
 echo "╚═════╝    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝"
 echo "Tool for manage BlackArch tools"
 echo ""
-echo "https://github.com/Odyssey2247/btoolin"
-echo "website: https://codegsi.group"
+echo "https://github.com/joselbr2099/btoolin"
+echo "website: https://reset2099.com/"
 echo ""
 if  [ -f /etc/pacman.d/blackarch-mirrorlist ]
            	then
